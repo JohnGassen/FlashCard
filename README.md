@@ -6,7 +6,7 @@
 its a project about when you tap the question view you can see the answer.
 
 ### App walk-though
-<img src="https://github.com/JohnGassen/FlashCard/blob/main/flashcard_gif.mp4">
+<img src="https://github.com/JohnGassen/FlashCard/blob/main/flashcard_gif.mp4" width="250">
 
 ## Required
 - [x] Create New Project in Android Studio
